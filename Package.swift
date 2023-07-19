@@ -2,9 +2,9 @@
 
 import PackageDescription
 
-let package = Package(name: "Example",
-                      products: [.library(name: "Example",
-                                          targets: ["Example"])],
+let package = Package(name: "Ledger",
+                      products: [.library(name: "Ledger",
+                                          targets: ["Ledger"])],
                       dependencies: [],
-                      targets: [.target(name: "Example",
+                      targets: [.target(name: "Ledger",
                                         dependencies: [])])

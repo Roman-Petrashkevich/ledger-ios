@@ -197,6 +197,7 @@ public final class Ledger {
                             completion(error)
                         }
                     }
+                case .deferred(purchase: _): break
                 }
             }
         }

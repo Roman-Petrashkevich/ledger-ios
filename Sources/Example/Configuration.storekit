@@ -1,4 +1,8 @@
 {
+  "identifier" : "9C3F1EF5",
+  "nonRenewingSubscriptions" : [
+
+  ],
   "products" : [
 
   ],
@@ -15,6 +19,9 @@
       "subscriptions" : [
         {
           "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
 
           ],
           "displayPrice" : "0.99",
@@ -39,6 +46,9 @@
           "adHocOffers" : [
 
           ],
+          "codeOffers" : [
+
+          ],
           "displayPrice" : "0.99",
           "familyShareable" : false,
           "groupNumber" : 1,
@@ -61,7 +71,7 @@
     }
   ],
   "version" : {
-    "major" : 1,
+    "major" : 2,
     "minor" : 0
   }
 }
